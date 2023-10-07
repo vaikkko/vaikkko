@@ -6,7 +6,6 @@
 <br/>
 
 <h2 align="left">⚡ Languages-Frameworks-Tools I'm Learning ⚡</h2>
-
 <br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -31,7 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
-
+<br/><br/><br/>
 ###
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
