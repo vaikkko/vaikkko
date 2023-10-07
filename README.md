@@ -3,10 +3,6 @@
 </div>
 <br/>
 
-<h2 align="center">⚡ Languages-Frameworks-Tools I'm Learning ⚡</h2>
-<br/>
-
-
 
 <br/>
 <hr/>
@@ -20,6 +16,8 @@
   <br/><br/><br/>
 </div>
 
+<h2 align="center">⚡ Languages-Frameworks-Tools I'm Learning ⚡</h2>
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
     <br/>
