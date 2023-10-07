@@ -6,11 +6,7 @@
 <h2 align="center">⚡ Languages-Frameworks-Tools I'm Learning ⚡</h2>
 <br/>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mongodb,java,mysql" /><br>
-</div>
+
 
 <br/>
 <hr/>
@@ -22,6 +18,12 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
+</div>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mongodb,java,mysql" /><br>
 </div>
 
 
