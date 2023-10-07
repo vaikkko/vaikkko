@@ -47,16 +47,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-  <img height="200" src="https://i.imgur.com/MvMxQ1a.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vaikkko/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
