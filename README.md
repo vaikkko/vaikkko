@@ -11,7 +11,8 @@
 
 <br/>
 
-<h2 align="left">⚡ Languages-Frameworks-Tools I'm Learning ⚡</h2>
+<h2 align
+="left">⚡ Languages-Frameworks-Tools I'm Learning ⚡</h2>
 <br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -44,6 +45,15 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
 </div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaikkko&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaikkko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 <br/><br/>
 <hr/>
 
