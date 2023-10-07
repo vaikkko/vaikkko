@@ -25,7 +25,8 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mongodb,java,mysql" /><br>
 </div>
-
+<br/>
+<br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
