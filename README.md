@@ -1,5 +1,6 @@
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7CC22&center=true&width=435&lines=Hi++there%2C+;I'm+Victor+Martinez" alt="Typing SVG" /></a>
-
+</div>
 <br/>
 
 <h2 align="center">⚡ Languages-Frameworks-Tools I'm Learning ⚡</h2>
