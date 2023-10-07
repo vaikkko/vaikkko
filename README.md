@@ -4,7 +4,7 @@
 
 <br/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools I'm Learning ⚒️</h2>
+<h2 align="center">🐉 Languages-Frameworks-Tools I'm Learning 🐉</h2>
 <br/>
 
 <div align="center">
