@@ -42,7 +42,7 @@
 <br/>
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/vaikkko/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vaikkko/vaikkko/output/github-contribution-grid-snake.svg" />
   
 </div>
 <br/>
