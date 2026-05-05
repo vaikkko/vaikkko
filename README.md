@@ -11,7 +11,6 @@
 
 
 <br/>
-
 <h2 align="center">⚡ Languages-Frameworks-Tools I'm Learning ⚡</h2>
 <br clear="both">
 <div align="center">
@@ -37,10 +36,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  
-  <!-- Intento con SimpleIcons para Bruno (Color original: #beaf1e) -->
-  <img src="https://img.shields.io/badge/-Bruno-fabb00?style=flat-square&logo=bruno&logoColor=white" height="40" alt="bruno logo" />
+    <img src="https://cdn.simpleicons.org/bruno/fabb00" height="40" alt="bruno logo" />
   <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+<br/>
+<br/>
+<br/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
