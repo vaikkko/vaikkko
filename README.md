@@ -37,9 +37,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <!-- Icono de Bruno corregido -->
-  <img src="https://skillicons.dev/icons?i=bruno" height="40" alt="bruno logo" />
+  
+  <!-- Intento con SimpleIcons para Bruno (Color original: #beaf1e) -->
+  <img src="https://img.shields.io/badge/-Bruno-fabb00?style=flat-square&logo=bruno&logoColor=white" height="40" alt="bruno logo" />
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 <br/>
