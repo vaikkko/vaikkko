@@ -36,10 +36,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-    <img src="https://cdn.simpleicons.org/bruno/fabb00" height="40" alt="bruno logo" />
+  
+  <!-- Icono de Bruno con el perro relleno de color sólido -->
+  <img src="https://skillicons.dev/icons?i=bruno" height="40" alt="bruno logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+<br/>
+<br/>
+<br/>
+
 </div>
 <br/>
 <br/>
