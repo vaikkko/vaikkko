@@ -37,8 +37,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <!-- Icono de Bruno añadido aquí -->
-  <img src="https://raw.githubusercontent.com/usebruno/bruno/main/packages/bruno-app/public/icons/512x512.png" height="40" alt="bruno logo" />
+  <!-- Icono de Bruno corregido -->
+  <img src="https://skillicons.dev/icons?i=bruno" height="40" alt="bruno logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
